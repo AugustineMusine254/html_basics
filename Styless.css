@@ -1,0 +1,12 @@
+body{
+    background-color: gold;
+
+}
+ul{
+    color: green;
+    font-family: DialogInput;
+    font-size: 30px;
+}
+ol{
+    color: blue;
+}
